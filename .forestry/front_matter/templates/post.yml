@@ -40,3 +40,5 @@ fields:
   type: tag_list
   default: []
   label: Authors
+pages:
+- content/post/nhs-data-public-health-data-should-be-free-and-not-for-sale.md
