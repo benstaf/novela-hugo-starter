@@ -32,7 +32,7 @@ Many radical advocates of regulation don’t support regulating the flow of publ
 
 On the other hand, to be self-consistent, people advocating for selling NHS data should also argue for ending public medical research. They should support transition to a secretive activity, akin to **military research**. Public research institutions would restrict access to their data and papers, instead of posting them to public repositories like Arxiv and Biorxiv, and to public databases like [ChEMBL](https://www.ebi.ac.uk/chembl/).
 
-![](https://miro.medium.com/max/800/1*iHj0HLtvAfsGS_jzHL0kcg.jpeg =800x450)
+![Public military research is secretive, but not medical research](https://miro.medium.com/max/800/1*iHj0HLtvAfsGS_jzHL0kcg.jpeg =800x450)
 
 Public military research is secretive, but not medical research
 
