@@ -2,7 +2,7 @@
 authors = []
 date = 2019-12-09T23:00:00Z
 excerpt = "National Healthcare Services (NHS) is the public medical system (hospitals, clinics) of the United Kingdom, a kind of ‘Medicare for all’ that makes British people healthy."
-hero = ""
+hero = "/images/nhspeople.jpeg"
 timeToRead = 5
 title = "NHS Data (public health data) should be free, and not for sale"
 
